@@ -6,13 +6,15 @@
 
 A comprehensive web application designed for the fundamental analysis of public companies. This platform streamlines financial data aggregation, ratio calculation, and valuation to derive a company's intrinsic value.
 
-**[View Live Demo on Heroku](https://your-app-name.herokuapp.com)** ![App Screenshot](placeholder.png) ---
+****[View Live Demo on Heroku](https://fundamental-analysis-platform-8a197907e9e0.herokuapp.com/)**
 
-## 🚀 Overview
+![App Screenshot](app-screenshot.png)
+
+## Overview
 
 Built for finance students and professionals, this platform serves as an all-in-one dashboard for making informed financial decisions. It automates the tedious aspects of financial analysis, allowing users to focus on interpretation and strategy.
 
-## ✨ Key Features
+## Key Features
 
 * **Dynamic Data Integration:** Fetches real-time and historical financial data from the Financial Modeling Prep (FMP) API.
 * **Interactive Financial Statements:** Displays clean, readable versions of the Income Statement, Balance Sheet, and Cash Flow Statement.
@@ -21,7 +23,7 @@ Built for finance students and professionals, this platform serves as an all-in-
 * **AI-Powered Summaries:** Leverages the Google Gemini API to generate concise, AI-driven summaries of a company's financial health.
 * **Scenario Modeling:** Includes a loan impact simulator to assess how new debt would affect a company's interest coverage ratio.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category            | Technology                                                                                                                                                                                                                              |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +32,7 @@ Built for finance students and professionals, this platform serves as an all-in-
 | **APIs & Services** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Financial Modeling Prep](https://img.shields.io/badge/FMP%20API-0077B5?style=for-the-badge)                      |
 | **Deployment** | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                         |
 
-## ⚙️ Local Setup & Installation
+## Local Setup & Installation
 
 To run this application locally, please follow these steps:
 
