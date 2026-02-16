@@ -54,6 +54,7 @@ To run this application locally, please follow these steps:
     GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
     ALPHA_VANTAGE_API_KEY="YOUR_ALPHA_VANTAGE_KEY"
     ```
+    If you use Streamlit secrets locally, copy `.streamlit/secrets.toml.example` to `.streamlit/secrets.toml` and add your real values there. Do not commit `.streamlit/secrets.toml`.
 
 4.  **Run the Streamlit app:**
     ```bash
